@@ -33,7 +33,7 @@
                             @enderror
                         </div>
                         <div class="col-lg-2 pr-0 mb-2">
-                            <button type="submit" class="add btn btn-primary font-weight-bold todo-list-add-btn m-0 w-100 h-100">Add</button>
+                            <button type="submit" class="add btn btn-primary font-weight-bold todo-list-add-btn m-0 w-100">Add</button>
                         </div>
                     </div>
                 </form>
